@@ -13,7 +13,7 @@ Dell Optiplex 3080 Micro 10600T
 
 ## What works
 - macOS Big Sur, macOS Catalina and macOS Ventura (Tested)
-- Audio
+- Audio (layout-id 17)
 - HDMI/DP (in internal GPU UH630)
 - All USB ports (USBs 3.0 work with XHCI-unsupported.kext)
 
